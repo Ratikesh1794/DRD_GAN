@@ -1,0 +1,41 @@
+# Deep Learning Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+tensorflow>=2.12.0  # For TensorBoard support
+
+# Data Processing & Scientific Computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# Image Processing
+Pillow>=9.5.0  # PIL fork for image processing
+opencv-python>=4.7.0  # OpenCV for advanced image operations
+albumentations>=1.3.0  # Advanced image augmentation library
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tensorboard>=2.12.0  # For training visualization
+wandb>=0.15.0  # Weights & Biases for experiment tracking
+
+# Data Management & API
+kaggle>=1.5.13  # Kaggle API for dataset download
+h5py>=3.8.0  # For handling large datasets
+pydicom>=2.3.0  # For medical image processing
+
+# Utilities
+tqdm>=4.65.0  # Progress bars
+PyYAML>=6.0  # Configuration file handling
+jupyter>=1.0.0  # For notebook development
+ipywidgets>=8.0.0  # Interactive widgets for notebooks
+
+# Quality & Testing
+pytest>=7.3.0
+black>=23.3.0  # Code formatting
+flake8>=6.0.0  # Code linting
+
+# Optional but recommended for performance
+ninja>=1.11.0  # Speed up PyTorch builds
+numba>=0.57.0  # JIT compilation for faster numerical computations
