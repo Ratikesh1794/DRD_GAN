@@ -189,17 +189,4 @@ If you use this project, please cite:
    ```  
 5. Open a Pull Request.  
 
----
-
-## Contact  
-
-- **Your Name**: [email@example.com]  
-- **Project Link**: [https://github.com/yourusername/dr-gan-project]  
-
----
-
-## Acknowledgments  
-
-- Original **DR-GAN** paper authors.  
-- **IDRID dataset** providers.  
-- The **PyTorch** development team.  
+```
